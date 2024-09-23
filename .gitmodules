@@ -16,9 +16,6 @@
 [submodule "Tweaks/DontEatMyContent"]
 	path = Tweaks/DontEatMyContent
 	url = https://github.com/therealFoxster/DontEatMyContent.git
-[submodule "Extensions"]
-	path = Extensions
-	url = https://github.com/CokePokes/YoutubeExtensions.git
 [submodule "Tweaks/YTVideoOverlay"]
 	path = Tweaks/YTVideoOverlay
 	url = https://github.com/arichornloverALT/YTVideoOverlay.git
